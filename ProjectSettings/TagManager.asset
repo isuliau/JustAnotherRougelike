@@ -1,0 +1,61 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 3
+  tags:
+  - Weapon
+  - Enemy
+  - MineHitbox
+  - HeathHitbox
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - goThroughStuff
+  - 
+  - Background
+  - stuff on the ground
+  - Gameobjects
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: BG
+    uniqueID: 2277618953
+    locked: 0
+  - name: Ground
+    uniqueID: 857660255
+    locked: 0
+  - name: Gameobjects
+    uniqueID: 4067683977
+    locked: 0
+  - name: Particles
+    uniqueID: 611738021
+    locked: 0
+  m_RenderingLayers:
+  - Default
